@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Specialistabp (Specialist DANCE) [AB+ ONLY]</name>
+    <directory>specialistabp</directory>
+    <id>3231114249</id>
+    <description>ALPHA!!! Only for AB+.
+
+This mod is a port of Specialist Dance for Good Items (https://steamcommunity.com/sharedfiles/filedetails/?id=2575911103) for AB+ DLC. When Isaac finds an item of 4th Quality in Repentance ranking, he'll dance and the music will play!
+
+It is currently in alpha phase, beware of bugs (only visual, music). Current known bugs to be fixed:
+- too loud/quiet music at the start of music Seams to be fixed
+- restarting the game will NOT save items to which Isaac was dancing (that means you can dance to the same items multiple times on restart)
+- does not count start items (e.g. you can dance to Isaac's d6 on active item replace)
+
+Current UNAVAILABLE features:
+- adding custom music, characters
+- no config, you can't give a custom item list or disable music
+- disabling trigger on blind curse
+
+Have fun!</description>
+    <version>1.2</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Tweaks"/>
+    <tag id="Graphics"/>
+    <tag id="Music"/>
+</metadata>

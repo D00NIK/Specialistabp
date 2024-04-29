@@ -1,0 +1,20 @@
+<costumes anm2root="costumes/">
+	<costume anm2path="specialist_isaac.anm2" isFlying="true" priority="969" type="none"/>
+	<costume anm2path="specialist_magdalene.anm2" isFlying="true" priority="969" type="none"/>
+	<costume anm2path="specialist_cain.anm2" isFlying="true" priority="969" type="none"/>
+	<costume anm2path="specialist_judas.anm2" isFlying="true" priority="969" type="none"/>
+	<costume anm2path="specialist_dark_judas.anm2" isFlying="true" priority="969" type="none"/>
+	<costume anm2path="specialist_xxx.anm2" isFlying="true" priority="969" type="none"/>
+	<costume anm2path="specialist_eve.anm2" isFlying="true" priority="969" type="none"/>
+	<costume anm2path="specialist_samson.anm2" isFlying="true" priority="969" type="none"/>
+	<costume anm2path="specialist_azazer.anm2" isFlying="true" priority="969" type="none"/>
+	<costume anm2path="specialist_lazarus.anm2" isFlying="true" priority="969" type="none"/>
+	<costume anm2path="specialist_lazarus2.anm2" isFlying="true" priority="969" type="none"/>
+	<costume anm2path="specialist_eden.anm2" isFlying="true" priority="969" type="none"/>
+	<costume anm2path="specialist_lost.anm2" isFlying="true" priority="969" type="none"/>
+	<costume anm2path="specialist_lilith.anm2" isFlying="true" priority="969" type="none"/>
+	<costume anm2path="specialist_keeper.anm2" isFlying="true" priority="969" type="none"/>
+	<costume anm2path="specialist_apollyon.anm2" isFlying="true" priority="969" type="none"/>
+	<costume anm2path="specialist_forgor_bone.anm2" isFlying="true" priority="969" type="none"/>
+	<costume anm2path="specialist_forgor_soul.anm2" isFlying="true" priority="969" type="none"/>
+</costumes>
