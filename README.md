@@ -8,7 +8,7 @@ Please subscribe to this mod on [Steam Workshop](https://steamcommunity.com/shar
 
 ## Issues
 It is currently in the alpha phase; beware of bugs (only visuals and music). Current known bugs to be fixed:
-- too loud/quiet music at the start of music seems to be fixed
+- <s>too loud/quiet music at the start of music</s> seems to be fixed
 - restarting the game will NOT save items to which Isaac was dancing (that means you can dance to the same items multiple times on restart)
 - does not count start items (e.g., you can dance to Isaac's d6 on active item replace)
 
